@@ -1,0 +1,2 @@
+No se pudo hacer el commit porque git no registra la creacion de carpetas como un cambio en el proyecto,
+luego de que creamos el archivo respuesta.txt git reconoce los cambios y permite realizar el commit.
