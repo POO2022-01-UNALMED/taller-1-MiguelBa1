@@ -3,3 +3,8 @@ Miguel Angel Barrera Bustamante
 Mi aspiracion con el curso es aprender acerca del paradigma
 de programacion orientada a objetos para aplicarlo en los
 proyectos que participe-
+No se pudo hacer el commit porque git no registra la creacion de carpetas como un cambio en el proyecto,
+luego de que creamos el archivo respuesta.txt git reconoce los cambios y permite realizar el commit.
+
+Es importante tener cuidado al modificar los archivos porque pueden salir conflictos como estos
+y se debe decidir con cual de los cambios se va a seguir en el proyecto, retrasando así el avance del mismo.
